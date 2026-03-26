@@ -37,6 +37,7 @@ Unity + R3 でリアクティブにゲームロジックを組んでみるため
 以下のリンクより実際のビルドで遊ぶことができます。
 
 - [デモビルド](https://torisoup.github.io/R3_sample_01/)
+- [unityroom](https://unityroom.com/games/torisoup_r3_samplegame)
 
 ### サンプルゲーム概要
 
