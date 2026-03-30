@@ -7,7 +7,7 @@ using R3;
 namespace R3Samples.Introduction.SampleGame.Tests
 {
     /// <summary>
-    /// PlayerCommandDetector の仕様確認
+    /// PlayerCommandDetector のテスト
     /// </summary>
     public class PlayerCommandDetectorSpec
     {
